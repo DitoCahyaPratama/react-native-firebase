@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "940736579041",
+    "firebase_url": "https://society-5dfde.firebaseio.com",
+    "project_id": "society-5dfde",
+    "storage_bucket": "society-5dfde.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940736579041:android:c9fcc4515c73492d9cbea0",
+        "android_client_info": {
+          "package_name": "com.khayal.social"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "940736579041-cnj16t0uheak1bdpdd0vat04eudrm0b1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJAsvdD-k9STcIjeo_lSpR9LTd-Dfm5xA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "940736579041-cnj16t0uheak1bdpdd0vat04eudrm0b1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
