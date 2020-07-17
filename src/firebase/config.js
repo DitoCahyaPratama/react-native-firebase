@@ -9,7 +9,7 @@ const firebaseConfig = {
   projectId: 'society-5dfde',
   storageBucket: 'society-5dfde.appspot.com',
   messagingSenderId: '940736579041',
-  appId: '1:940736579041:android:c9fcc4515c73492d9cbea0',
+  appId: '1:940736579041:android:10a6b6fac6fd7d149cbea0',
 };
 
 if (!firebase.apps.length) {
